@@ -1,0 +1,10 @@
+server:
+  port: "4040"
+  descriptor: .
+parent:
+  address: localhost
+  port: "0"
+manager:
+  address: localhost
+  port: "4444"
+timeout: 1
