@@ -1,1 +1,1 @@
-# Distributed-DNS-Server
+# Distributed DNS Server
